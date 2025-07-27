@@ -1,0 +1,402 @@
+[
+  {
+    "id": "1753594514367",
+    "date": "2025-04-27",
+    "amount": 15000,
+    "category": "Housing",
+    "description": "Anu",
+    "notes": ""
+  },
+  {
+    "id": "1753594575930",
+    "date": "2025-04-27",
+    "amount": 11183,
+    "category": "Entertainment",
+    "description": "Computer EMI",
+    "notes": ""
+  },
+  {
+    "id": "1753594613378",
+    "date": "2025-04-27",
+    "amount": 6508,
+    "category": "Food",
+    "description": "DMART",
+    "notes": ""
+  },
+  {
+    "id": "1753594673129",
+    "date": "2025-04-27",
+    "amount": 473,
+    "category": "Transportation",
+    "description": "Petrol",
+    "notes": ""
+  },
+  {
+    "id": "1753594763069",
+    "date": "2025-04-27",
+    "amount": 19135,
+    "category": "EMI",
+    "description": "Marriage",
+    "notes": ""
+  },
+  {
+    "id": "1753594805568",
+    "date": "2025-04-27",
+    "amount": 649,
+    "category": "Entertainment",
+    "description": "Netflix",
+    "notes": ""
+  },
+  {
+    "id": "1753594842176",
+    "date": "2025-04-27",
+    "amount": 130,
+    "category": "Entertainment",
+    "description": "Google storage",
+    "notes": ""
+  },
+  {
+    "id": "1753594867661",
+    "date": "2025-04-27",
+    "amount": 299,
+    "category": "Entertainment",
+    "description": "Youtube",
+    "notes": ""
+  },
+  {
+    "id": "1753594899969",
+    "date": "2025-04-27",
+    "amount": 532,
+    "category": "Utilities",
+    "description": "VI",
+    "notes": ""
+  },
+  {
+    "id": "1753594974075",
+    "date": "2025-04-27",
+    "amount": 1698,
+    "category": "Food",
+    "description": "Swiggy",
+    "notes": ""
+  },
+  {
+    "id": "1753595011871",
+    "date": "2025-04-27",
+    "amount": 10091,
+    "category": "Shopping",
+    "description": "UPI",
+    "notes": ""
+  },
+  {
+    "id": "1753595143903",
+    "date": "2025-05-27",
+    "amount": 15000,
+    "category": "Housing",
+    "description": "Anu",
+    "notes": ""
+  },
+  {
+    "id": "1753595191445",
+    "date": "2025-05-27",
+    "amount": 19135,
+    "category": "EMI",
+    "description": "Marriage",
+    "notes": ""
+  },
+  {
+    "id": "1753595226709",
+    "date": "2025-04-27",
+    "amount": 1516,
+    "category": "EMI",
+    "description": "Fridge",
+    "notes": ""
+  },
+  {
+    "id": "1753595250044",
+    "date": "2025-05-27",
+    "amount": 1516,
+    "category": "EMI",
+    "description": "Fridge",
+    "notes": ""
+  },
+  {
+    "id": "1753595283893",
+    "date": "2025-05-27",
+    "amount": 11183,
+    "category": "EMI",
+    "description": "Computer",
+    "notes": ""
+  },
+  {
+    "id": "1753595324528",
+    "date": "2025-05-27",
+    "amount": 649,
+    "category": "Entertainment",
+    "description": "Netflix",
+    "notes": ""
+  },
+  {
+    "id": "1753595350059",
+    "date": "2025-05-27",
+    "amount": 299,
+    "category": "Entertainment",
+    "description": "Youtube",
+    "notes": ""
+  },
+  {
+    "id": "1753595373840",
+    "date": "2025-05-27",
+    "amount": 532,
+    "category": "Utilities",
+    "description": "VI",
+    "notes": ""
+  },
+  {
+    "id": "1753595407052",
+    "date": "2025-05-27",
+    "amount": 130,
+    "category": "Entertainment",
+    "description": "Google storage",
+    "notes": ""
+  },
+  {
+    "id": "1753595448018",
+    "date": "2025-05-27",
+    "amount": 1800,
+    "category": "Housing",
+    "description": "Anu",
+    "notes": ""
+  },
+  {
+    "id": "1753595477758",
+    "date": "2025-05-13",
+    "amount": 340,
+    "category": "Transportation",
+    "description": "Petrol",
+    "notes": ""
+  },
+  {
+    "id": "1753595516141",
+    "date": "2025-05-27",
+    "amount": 10335,
+    "category": "Food",
+    "description": "DMART",
+    "notes": ""
+  },
+  {
+    "id": "1753595563666",
+    "date": "2025-05-27",
+    "amount": 10000,
+    "category": "Other",
+    "description": "Cash",
+    "notes": ""
+  },
+  {
+    "id": "1753595598100",
+    "date": "2025-05-27",
+    "amount": 7500,
+    "category": "Transportation",
+    "description": "Train tickets",
+    "notes": ""
+  },
+  {
+    "id": "1753595655887",
+    "date": "2025-05-27",
+    "amount": 6000,
+    "category": "Entertainment",
+    "description": "Hotel",
+    "notes": ""
+  },
+  {
+    "id": "1753595690484",
+    "date": "2025-05-27",
+    "amount": 900,
+    "category": "Shopping",
+    "description": "UPI",
+    "notes": ""
+  },
+  {
+    "id": "1753595741957",
+    "date": "2025-06-27",
+    "amount": 15000,
+    "category": "Housing",
+    "description": "Anu",
+    "notes": ""
+  },
+  {
+    "id": "1753595773364",
+    "date": "2025-06-27",
+    "amount": 19135,
+    "category": "EMI",
+    "description": "Marriage",
+    "notes": ""
+  },
+  {
+    "id": "1753595789867",
+    "date": "2025-06-27",
+    "amount": 1516,
+    "category": "EMI",
+    "description": "Fridge",
+    "notes": ""
+  },
+  {
+    "id": "1753595818368",
+    "date": "2025-06-27",
+    "amount": 11183,
+    "category": "EMI",
+    "description": "Computer",
+    "notes": ""
+  },
+  {
+    "id": "1753595843401",
+    "date": "2025-06-27",
+    "amount": 649,
+    "category": "Entertainment",
+    "description": "Netflix",
+    "notes": ""
+  },
+  {
+    "id": "1753595868120",
+    "date": "2025-06-27",
+    "amount": 532,
+    "category": "Utilities",
+    "description": "VI",
+    "notes": ""
+  },
+  {
+    "id": "1753595903422",
+    "date": "2025-06-27",
+    "amount": 130,
+    "category": "Entertainment",
+    "description": "Google storage",
+    "notes": ""
+  },
+  {
+    "id": "1753595939576",
+    "date": "2025-06-27",
+    "amount": 15000,
+    "category": "Investment",
+    "description": "Mutual funds",
+    "notes": ""
+  },
+  {
+    "id": "1753595970723",
+    "date": "2025-06-27",
+    "amount": 10397,
+    "category": "Shopping",
+    "description": "UPI",
+    "notes": ""
+  },
+  {
+    "id": "1753596022198",
+    "date": "2025-06-27",
+    "amount": 1906,
+    "category": "Shopping",
+    "description": "Meesho",
+    "notes": ""
+  },
+  {
+    "id": "1753596040297",
+    "date": "2025-06-27",
+    "amount": 1398,
+    "category": "Shopping",
+    "description": "Meesho",
+    "notes": ""
+  },
+  {
+    "id": "1753596087623",
+    "date": "2025-06-27",
+    "amount": 800,
+    "category": "Other",
+    "description": "Phone recharge",
+    "notes": ""
+  },
+  {
+    "id": "1753596121907",
+    "date": "2025-06-27",
+    "amount": 11253,
+    "category": "Food",
+    "description": "DMART",
+    "notes": ""
+  },
+  {
+    "id": "1753596160429",
+    "date": "2025-06-27",
+    "amount": 1500,
+    "category": "Food",
+    "description": "Swiggy",
+    "notes": ""
+  },
+  {
+    "id": "1753596190470",
+    "date": "2025-06-27",
+    "amount": 10000,
+    "category": "Other",
+    "description": "Anmol Chair",
+    "notes": ""
+  },
+  {
+    "id": "1753596223265",
+    "date": "2025-06-27",
+    "amount": 500,
+    "category": "Food",
+    "description": "Gratify",
+    "notes": ""
+  },
+  {
+    "id": "1753596324540",
+    "date": "2025-06-27",
+    "amount": 4470,
+    "category": "Other",
+    "description": "Credit card",
+    "notes": "2950"
+  },
+  {
+    "id": "1753597505477",
+    "date": "2025-07-27",
+    "amount": 15000,
+    "category": "Housing",
+    "description": "Anu",
+    "notes": "Recurring expense added automatically"
+  },
+  {
+    "id": "1753597505478",
+    "date": "2025-07-27",
+    "amount": 19135,
+    "category": "EMI",
+    "description": "Marriage",
+    "notes": "Recurring expense added automatically"
+  },
+  {
+    "id": "1753597505480",
+    "date": "2025-07-27",
+    "amount": 649,
+    "category": "Entertainment",
+    "description": "Netflix",
+    "notes": "Recurring expense added automatically"
+  },
+  {
+    "id": "1753597505480",
+    "date": "2025-07-27",
+    "amount": 130,
+    "category": "Entertainment",
+    "description": "Google storage",
+    "notes": "Recurring expense added automatically"
+  },
+  {
+    "id": "1753597505481",
+    "date": "2025-07-27",
+    "amount": 299,
+    "category": "Entertainment",
+    "description": "Youtube",
+    "notes": "Recurring expense added automatically"
+  },
+  {
+    "id": "1753597505482",
+    "date": "2025-07-27",
+    "amount": 1516,
+    "category": "EMI",
+    "description": "Fridge",
+    "notes": "Recurring expense added automatically"
+  }
+]
